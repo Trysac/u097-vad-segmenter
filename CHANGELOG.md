@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add `vad_segmenter`: pure-Python adaptive energy VAD with `StreamingSegmenter`, `segment`, `VadConfig`, `frame_energy_db` and `pcm16_to_float`.
 - Initial project structure from the factory utility template.
